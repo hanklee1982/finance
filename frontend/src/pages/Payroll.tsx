@@ -297,7 +297,7 @@ const Payroll = () => {
                 className="px-3 py-1 border border-gray-300 rounded-md text-sm font-medium text-gray-700 hover:bg-gray-50"
               >
                 下一页
-              }}]
+              </button>
             </div>
           </div>
         )}
